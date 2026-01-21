@@ -1,1 +1,27 @@
-<h1 style = "color:blue;"> A blue heading</h1>
+body{background-color: pink;}
+
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 50%;
+    border-radius: 100px;
+}
+p{
+    text-align: center;
+}
+ul, li, ol{
+    text-align: center;
+}
+.center-link{
+    display: block;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+div{
+        display: block;
+    margin: auto;
+}
